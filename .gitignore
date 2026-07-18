@@ -1,0 +1,11 @@
+# Frontend ignores
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Backend (Java/Maven) ignores
+backend/target/
+backend/.mvn/wrapper/
+backend/.idea/
+backend/*.class
+backend/*.jar
